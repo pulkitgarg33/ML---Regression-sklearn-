@@ -1,3 +1,6 @@
 [submodule "linear"]
 	path = linear
 	url = https://github.com/pulkitgarg33/ML---Regression-sklearn-
+[submodule "salary-estimator-linear-"]
+	path = salary-estimator-linear-
+	url = https://github.com/pulkitgarg33/salary-estimator-linear-
